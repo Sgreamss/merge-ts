@@ -1,4 +1,4 @@
-# merge-ts
+# Merge-ts
 TypeScript project with Unit test using Jest.
 
 
@@ -8,7 +8,7 @@ To use this project, you'll need to have [Node.js](https://nodejs.org/en/downloa
  
 ## Installation
 
-1. clone the repository
+1.Clone the repository
 ```
 git clone https://github.com/Sgreamss/merge-ts.git
 cd merge-ts
