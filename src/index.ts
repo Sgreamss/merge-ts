@@ -1,4 +1,4 @@
-function merge(collection1:number[],collection2:number[]):number[]{
+export function merge(collection1:number[],collection2:number[]):number[]{
     let collection3 : number[] = [];
     
     let i = 0;
